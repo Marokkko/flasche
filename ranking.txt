@@ -1,4 +1,4 @@
-Kirill:900:8:m1cro.png:major1
+Kirill:902:8:m1cro.png:major1
 Dima:790:1:exetan.png:
 Maksim:801:6:maksus.png:major1
 Palad:770:2::
